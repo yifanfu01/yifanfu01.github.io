@@ -10,7 +10,7 @@ redirect_from:
 Education
 ======
 * M.D. Candidate in 4+4 Medical Doctor Program, CAMS & PUMC, 2023
-* B.S. in BioMedical Engineering, Beihang University, 2019-2023
+* B.S. in Biomedical Engineering, Beihang University, 2019-2023
 * B.S. in Mathematics and Applied Mathematics, Beihang University, 2020-2023
   
 Lab experience
