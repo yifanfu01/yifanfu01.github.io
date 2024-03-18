@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 Education
 ======
 * M.D. Candidate in 4+4 Medical Doctor Program, CAMS & PUMC, 2023
