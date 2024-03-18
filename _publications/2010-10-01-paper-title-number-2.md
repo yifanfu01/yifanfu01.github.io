@@ -1,10 +1,10 @@
 ---
-title: "Paper Title Number 2"
+title: "Single-nucleus RNA sequencing reveals the shared mechanisms inducing cognitive impairment between COVID-19 and Alzheimer’s disease"
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
+excerpt: 'This paper utilized snRNA-seq revealing the potential shared neural change in the COVID-19 and AD patients'
+date: 2022-09-23
+venue: 'Front Immunol'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
