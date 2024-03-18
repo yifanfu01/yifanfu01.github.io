@@ -1,7 +1,7 @@
 ---
 title: "Single-nucleus RNA sequencing reveals the shared mechanisms inducing cognitive impairment between COVID-19 and Alzheimer’s disease"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2010-10-01-paper-title-number-2-1
 excerpt: 'This paper utilized snRNA-seq revealing the potential shared neural change in the COVID-19 and AD patients'
 date: 2022-09-23
 venue: 'Front Immunol'
