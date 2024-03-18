@@ -47,4 +47,5 @@ Publications
   
 Honors and Awards
 ======
-* Wait to write
+* President Award, Beihang University, 2022
+* National Scholarship, Ministry of Education of the PRC, 2022
