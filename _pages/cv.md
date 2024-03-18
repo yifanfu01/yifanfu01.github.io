@@ -11,10 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
+* M.D. Candidate in 4+4 Medical Doctor Program, CAMS & PUMC, 2023
+* B.S. in BioMedical Engineering, Beihang University, 2019-2023
+* B.S. in Mathematics and Applied Mathematics, Beihang University, 2020-2023
+  
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
