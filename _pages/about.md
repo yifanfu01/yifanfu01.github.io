@@ -14,7 +14,7 @@ I am currently a M.D. candidate at the Chinese Academy of Medical Sciences (CAMS
 My research interest focuses on the application of cumputational methods in the clinical research and fundamental research.  
 As a M.D. candidate with multidisciplinary background, I am particularly interested in the intergration of multi-omics data and dedicate to hetergeneity of tumor microenvironment (TME). Recently, I worked with my colleagues from Peking Union Medical College Hospital (PUMCH) and revealed the heterogeneity of neutrophils extracellular traps (NETs) in the pancreatic ductal adenocarcinoma (PDAC) and identitied several promising prognostic markers. My goal is to clarify the sophisticated TME in the PDAC and promote the diagnosis and treatment of the PDAC. Meanwhile, I participated in some biomechanics projects by generating and evaluating the finated element analysis (FEA) models, with respect to the spine and zygoma.  
 
-I am also the reviewer for the _Frontiers in Neurology_and _Oral Dideases_ journals.
+I am also the reviewer for the _Frontiers in Neurology_ and _Oral Dideases_ journals.
 
 
 ----
