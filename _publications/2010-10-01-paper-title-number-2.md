@@ -1,12 +1,12 @@
 ---
 title: "Single-nucleus RNA sequencing reveals the shared mechanisms inducing cognitive impairment between COVID-19 and Alzheimer’s disease"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2-1
+permalink: /publication/fii2022
 excerpt: 'This paper utilized snRNA-seq revealing the potential shared neural change in the COVID-19 and AD patients'
 date: 2022-09-23
 venue: 'Front Immunol'
-paperurl: 'https://doi.org/10.3389/fimmu.2022.967356/'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+paperurl: 'https://doi.org/10.3389/fimmu.2022.967356'
+citation: 'Yifan Fu, et al. (2022). &quot;Single-nucleus RNA sequencing reveals the shared mechanisms inducing cognitive impairment between COVID-19 and Alzheimer’s disease.&quot; <i>Front Immunol</i>. 13:967356.'
 ---
 
 I finished this article in Beihang University with Dr. Zhirong GUO and under the supervision from Dr. Shaocong MO and Prof. Wenchao GU in 2022.  
