@@ -23,12 +23,15 @@ Lab experience
 * 2023- now: Guo Lab, IBMS of the CAMS 
   * Research training: scRNA-seq, metabolome, CAF, Macrophage
   * Supervisors: Prof. Lei GUO, Dr. Rui JU
-* 2022-2023: Chen Lab, Beihang University 
-  * Graduation project: scRNA-seq, sclera, myopia, endothelial cell
-  * Supervisor: Prof. Wei CHEN
 * 2021- now: Ji Lab, Beihang University
   * Research training: biomechanics (macro and micro), FEA, spine 
   * Supervisor: Prof. Jing JI
+* 2022-2023: Chen Lab, Beihang University 
+  * Graduation project: scRNA-seq, sclera, myopia, endothelial cell
+  * Supervisor: Prof. Wei CHEN
+* 2022- 2023: Lunar Palace 1 Lab, Beihang University
+  * Research training: 16S RNA-seq, space environment, bacteria, microgravity
+  * Supervisor: Prof. Yuming FU
 * 2021- 2023: Zhang Lab, Beihang University
   * Research training: scRNA-seq, T cell, COVID-19, immunology
   * Supervisor: Prof. Jing ZHANG
