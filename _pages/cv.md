@@ -17,21 +17,21 @@ Education
   
 Lab experience
 ======
-* 2023- _now_: General Surgery Laboratory, PUMCH 
-  * **Graduation project**: multi-omics, tumor microenvironment, PDAC
-  * Supervisor: Prof. Taiping Zhang
-* 2023- _now_: Guo Lab, IBMS of the CAMS 
+* 2023-_now_ : General Surgery Laboratory, PUMCH 
+  * Graduation project: multi-omics, tumor microenvironment, PDAC
+  * Supervisor: _Prof._ Taiping Zhang
+* 2023-_now_ : Guo Lab, IBMS of the CAMS 
   * Research training: scRNA-seq, metabolome, CAF, Macrophage
-  * Supervisors: Prof. Lei Guo, Dr. Rui Ju
+  * Supervisors: _Prof._ Lei Guo, _Dr._ Rui Ju
 * 2022-2023: Chen Lab, Beihang University 
-  * **Graduation project**: scRNA-seq, sclera, myopia, endothelial cell
-  * Supervisor: Prof. Wei Chen
-* 2021- _now_: Ji Lab, Beihang University
+  * Graduation project: scRNA-seq, sclera, myopia, endothelial cell
+  * Supervisor: _Prof._ Wei Chen
+* 2021-_now_ : Ji Lab, Beihang University
   * Research training: biomechanics (macro and micro), FEA, spine 
-  * Supervisor: Prof. Jing Ji
+  * Supervisor: _Prof._ Jing Ji
 * 2021- 2023: Zhang Lab, Beihang University
   * Research training: scRNA-seq, T cell, COVID-19, immunology
-  * Supervisor: Prof. Jing Zhang
+  * Supervisor: _Prof._ Jing Zhang
 
   
 
