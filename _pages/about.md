@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome to Yifan Fu's Homepage.  
+Welcome! 
 
 I am currently a M.D. candidate at the Chinese Academy of Medical Sciences (CAMS) & Peking Union Medical College (PUMC). I am fortunately participating in the [4+4 Medical Doctor Program](https://mdadmission.pumc.edu.cn/mdweb/site!index).  
 
@@ -15,5 +15,5 @@ My research interest focuses on the application of cumputational methods in the 
 
 I am fortunate to be guided and mentored with so many great researchers and friends. I deeply appreciate their help: [Lab Experience](https://yifanfu01.github.io/cv/)
 
-
+---
 Feel free to send me any comments or feedbacks! I am happy to chat about various topics in both clinical medicine and bioinformatics. I am also open to various form of research collaboration.
