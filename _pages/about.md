@@ -15,7 +15,7 @@ My research interest focuses on the application of cumputational methods in the 
   
 My goal is to be a perfect doctor as well as to clarify the sophisticated TME in the PDAC and promote the diagnosis and treatment of the PDAC. Meanwhile, I participated in some biomechanics projects by generating and evaluating the finated element analysis (FEA) models, with respect to the spine and zygoma.  
   
-I am also the reviewer for the _Front Neurol_. and _Oral Dis_. journals.
+I am the reviewer for the _Front Neurol_. and _Oral Dis_. journals.
 
 
 ----
