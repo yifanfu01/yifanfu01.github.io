@@ -42,6 +42,6 @@ Publications
   {% endfor %}</ul>
   
   
-Service and leadership
+Honors and Awards
 ======
 * Wait to write
