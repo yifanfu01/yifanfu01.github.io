@@ -15,31 +15,25 @@ Education
 * B.S. in BioMedical Engineering, Beihang University, 2019-2023
 * B.S. in Mathematics and Applied Mathematics, Beihang University, 2020-2023
   
-Work experience
+Lab experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2023- _now_: General Surgery Laboratory, PUMCH 
+  * **Graduation project**: multi-omics, tumor microenvironment, PDAC
+  * Supervisor: Prof. Taiping Zhang
+* 2023- _now_: Guo Lab, IBMS of the CAMS 
+  * Research training: scRNA-seq, metabolome, CAF, Macrophage
+  * Supervisors: Prof. Lei Guo, Dr. Rui Ju
+* 2022-2023: Chen Lab, Beihang University 
+  * **Graduation project**: scRNA-seq, sclera, myopia, endothelial cell
+  * Supervisor: Prof. Wei Chen
+* 2021- _now_: Ji Lab, Beihang University
+  * Research training: biomechanics (macro and micro), FEA, spine 
+  * Supervisor: Prof. Jing Ji
+* 2021- 2023: Zhang Lab, Beihang University
+  * Research training: scRNA-seq, T cell, COVID-19, immunology
+  * Supervisor: Prof. Jing Zhang
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
   
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
 Publications
 ======
@@ -47,18 +41,7 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Wait to write
