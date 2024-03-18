@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% if site.author.googlescholar %}
-  <div class="wordwrap">Only the first/co-first author publications are shown, and other articles can be found on my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</div>
+  <div class="wordwrap">Only the first/co-first author publications are shown, and the other articles can be found on my <a href="{{site.author.googlescholar}}">Google Scholar</a> profile.</div>
 {% endif %}
 
 {% include base_path %}
