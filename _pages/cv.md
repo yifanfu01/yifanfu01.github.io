@@ -15,7 +15,7 @@ Education
 * B.S. in Biomedical Engineering, Beihang University, 2019-2023
 * B.S. in Mathematics and Applied Mathematics, Beihang University, 2020-2023
   
-Lab experience
+Lab Experience
 ======
 * 2023- now: General Surgery Laboratory, PUMCH 
   * Graduation project: multi-omics, tumor microenvironment, PDAC
