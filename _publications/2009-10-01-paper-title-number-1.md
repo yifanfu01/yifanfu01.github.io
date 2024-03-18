@@ -1,12 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "Single-nucleus RNA sequencing reveals the shared mechanisms inducing cognitive impairment between COVID-19 and Alzheimer’s disease"
 collection: publications
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+permalink: /publication/10-3389-fimmu-2022-967356
+excerpt: 'This paper utilized snRNA-seq revealing the potential shared neural change in the COVID-19 and AD patients'
+date: 2022-09-23
+venue: 'Front Immunol'
+paperurl: 'https://doi.org/10.3389/fimmu.2022.967356'
+citation: 'Fu Y, Guo Z, Wang Y, et al. Single-nucleus RNA sequencing reveals the shared mechanisms inducing cognitive impairment between COVID-19 and Alzheimer's disease. Front Immunol. 2022;13:967356.'
 ---
-
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+I finished this article in Beihang University with Dr. Zhirong GUO and under the supervision from Dr. Shaocong MO and Prof. Wenchao GU in 2022.
+This work collected the publib single nuclei RNA sequencing data from several literature and included AD and COVID-19 cohorts to reveal the potential shared mechanisms inducing cognitive impairment between these diseases. Several biomarkers were identified and a potential regulation target was proposed.
+This article received attention from 10X Genomics:
+  https://www.10xgenomics.com/en/blog/from-brain-fog-to-atrophy-links-between-covid-19-and-alzheimer’s-disease
+  https://www.10xgenomics.com/blog/the-gold-standard-transformed-taking-single-cell-rna-seq-further-than-ever-before
+  
