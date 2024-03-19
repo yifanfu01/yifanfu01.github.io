@@ -19,4 +19,4 @@ I am the reviewer for the _Front Neurol_. and _Oral Dis_. journals.
 
 
 ----
-Feel free to send me any comments or feedbacks! I am happy to chat about diverse topics in biomedical research. I am also open to various forms of research collaboration.
+Feel free to send me any comments or feedbacks: yf_pumc#163(DOT)com! I am happy to chat about diverse topics in biomedical research. I am also open to various forms of research collaboration.
