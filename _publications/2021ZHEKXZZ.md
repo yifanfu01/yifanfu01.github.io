@@ -6,7 +6,7 @@ excerpt: 'This work reviewed recent advances in the ETD diseases modeling.'
 date: 2021-10-21
 venue: 'Chin J Otol'
 paperurl: 'N/A'
-citation: '<b>Yifan Fu</b>, Jing Ji (2021). <i>Chin J Otol</i>. 20(05):814-818.'
+citation: '<b>Yifan Fu</b>, Jing Ji (2022). <i>Chin J Otol</i>. 20(05):814-818.'
 ---
 
 I finished this article in Beihang University under the supervision from Prof. Jing JI in 2022.  
