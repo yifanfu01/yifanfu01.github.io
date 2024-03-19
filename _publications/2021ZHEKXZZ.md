@@ -13,4 +13,4 @@ I finished this article in Beihang University under the supervision from Prof. J
   
 In this review, we provides a comprehensive overview of the challenges in diagnosing Eustachian tube dysfunction, comparing the advantages and limitations of current models including animal, cadaver, and numerical simulations. It highlights the promising role of numerical models in clinical applications, offering new directions for research and treatment of Eustachian tube disorders.  
   
-I still pay attention to this field and am interested in the related models and methods.
+I still pay attention to the ETD diseases, and expect to find new approaches to solve the problems in the FEA model of ET.
