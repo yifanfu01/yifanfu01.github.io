@@ -18,22 +18,22 @@ Education
 Lab Experience
 ======
 * 2023 - now : General Surgery Laboratory, PUMCH 
-  * Graduation project: multi-omics, tumor microenvironment, PDAC
+  * Graduation project _on_ multi-omics, tumor microenvironment, PDAC
   * Supervisor: Prof. Taiping ZHANG
 * 2023 - now : Guo Lab, IBMS of the CAMS 
-  * Research training: scRNA-seq, metabolome, CAF, Macrophage
+  * Research training _on_ scRNA-seq, metabolome, CAF, Macrophage
   * Supervisors: Prof. Lei GUO, Dr. Rui JU
 * 2021 - now : Key Laboratory for Biomechanics and Mechanobiology, MOE
-  * Research training: biomechanics (macro and micro), FEA, spine 
+  * Research training _on_ biomechanics (macro and micro), FEA, spine 
   * Supervisor: Prof. Jing JI
-* 2022 - 2023: Key Laboratory for Big Data-Based Precision Medicine, MIIT
-  * Graduation project: scRNA-seq, sclera, myopia, endothelial cell
+* 2022 - 2023: Key Laboratory for Biomechanics and Mechanobiology, MOE
+  * Graduation project _on_ scRNA-seq, sclera, myopia, endothelial cell
   * Supervisor: Prof. Wei CHEN
 * 2022 - 2023: Lunar Palace 1 Lab, Beihang University
-  * Research training: 16S RNA-seq, space environment, bacteria, microgravity
+  * Research training _on_ 16S RNA-seq, space environment, bacteria, microgravity
   * Supervisor: Prof. Yuming FU
 * 2021 - 2023: Key Laboratory for Big Data-Based Precision Medicine, MIIT
-  * Research training: scRNA-seq, T cell, COVID-19, immunology
+  * Research training _on_ scRNA-seq, T cell, COVID-19, immunology
   * Supervisor: Prof. Jing ZHANG
 
   
