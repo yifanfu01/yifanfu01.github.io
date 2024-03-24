@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/zhekxzz2021
 excerpt: 'This work reviewed recent advances in the ETD diseases modeling.'
 date: 2021-10-21
-venue: 'Chin J Otol'
+venue: 'Chin J Otol.'
 paperurl: 'N/A'
 citation: '<b>Yifan Fu</b>, Jing Ji (2022). <i>Chin J Otol</i>. 20(05):814-818.'
 ---
