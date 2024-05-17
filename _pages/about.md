@@ -14,7 +14,7 @@ My research interest focuses on the application of cumputational methods in the 
   
 My goal is to be a medical leaders with high morality, a vast knowledge base, solid clinical skills, and excellent professional qualities.  
   
-I am the reviewer for the _Front Neurol_., _Oral Dis_. and _Arch Gynecol Obstet_. journals.
+I am the reviewer for the _Front Genet_., _Front Neurol_., _Oral Dis_. and _Arch Gynecol Obstet_. journals.
 
 
 ----
