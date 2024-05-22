@@ -18,12 +18,12 @@ Education
 Lab Experience
 ======
 * 2024 - now : Dermatology, PUMCH 
-  * Graduation project _on_ neutrophilic diseases, immunotherapy, spatial RNA-seq
+  * Research training _on_ neutrophilic diseases, immunotherapy, spatial RNA-seq
   * Supervisor: Dr. Chao WU
 * 2023 - now : General Surgery Laboratory, PUMCH 
   * Graduation project _on_ multi-omics, tumor microenvironment, PDAC
   * Supervisor: Prof. Taiping ZHANG
-* 2023 - now : State Key Laboratory of Common Mechanism Research for Major Diseases, CAMS 
+* 2023 - 2024 : State Key Laboratory of Common Mechanism Research for Major Diseases, CAMS 
   * Research training _on_ scRNA-seq, metabolome, CAF, Macrophage
   * Supervisors: Prof. Lei GUO, Dr. Rui JU
 * 2021 - 2024: Key Laboratory for Biomechanics and Mechanobiology (MOE), Beihang University 
