@@ -18,25 +18,25 @@ Education
 Lab Experience
 ======
 * 2024 - now : Dermatology, PUMCH 
-  * Research training _on_ neutrophilic diseases, immunotherapy, spatial RNA-seq
+  * Neutrophilic diseases, immunotherapy, spatial RNA-seq
   * Supervisor: Dr. Chao WU
 * 2023 - now : General Surgery Laboratory, PUMCH 
-  * Graduation project _on_ multi-omics, tumor microenvironment, PDAC
+  * Multi-omics, tumor microenvironment, PDAC
   * Supervisor: Prof. Taiping ZHANG
 * 2023 - 2024 : State Key Laboratory of Common Mechanism Research for Major Diseases, CAMS 
-  * Research training _on_ scRNA-seq, metabolome, CAF, Macrophage
+  * ScRNA-seq, metabolome, CAF, Macrophage
   * Supervisors: Prof. Lei GUO, Dr. Rui JU
-* 2021 - 2024: Key Laboratory for Biomechanics and Mechanobiology (MOE), Beihang University 
-  * Research training _on_ biomechanics (macro and micro), FEA, spine, retina 
-  * Supervisor: Prof. Jing JI
 * 2022 - 2023: Key Laboratory for Biomechanics and Mechanobiology (MOE), Beihang University 
-  * Graduation project _on_ scRNA-seq, sclera, myopia, endothelial cell
+  * ScRNA-seq, sclera, myopia, endothelial cell
   * Supervisor: Prof. Wei CHEN
 * 2022 - 2023: Lunar Palace 1 Lab, Beihang University
-  * Research training _on_ 16S RNA-seq, space environment, bacteria, microgravity
+  * 16S RNA-seq, space environment, bacteria, microgravity
   * Supervisor: Prof. Yuming FU
+* 2021 - 2024: Key Laboratory for Biomechanics and Mechanobiology (MOE), Beihang University 
+  * Biomechanics (macro and micro), FEA, spine, retina 
+  * Supervisor: Prof. Jing JI
 * 2021 - 2022: Key Laboratory for Big Data-Based Precision Medicine (MIIT), Beihang University
-  * Research training _on_ scRNA-seq, T cell, COVID-19, immunology
+  * ScRNA-seq, T cell, COVID-19, immunology
   * Supervisor: Prof. Jing ZHANG
 
   
