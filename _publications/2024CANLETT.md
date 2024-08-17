@@ -3,9 +3,9 @@ title: "Single-cell RNA-seq reveals heterogeneity in metastatic renal cell carci
 collection: publications
 permalink: /publication/cl2024
 excerpt: 'This paper profiled the first renal clear cell carcinoma pancreas metastasis scRNA-seq landscape.'
-date: 2024-08-16
+date: 2024-08-17
 venue: 'Can Lett.'
-paperurl: 'https://doi.org/accept'
+paperurl: 'https://doi.org/10.1016/j.canlet.2024.217193'
 citation: 'Jiangdong Qiu, <b>Yifan Fu</b>, Tao Liu, Jun Wang, et al. (2024). <i>Can Lett</i>. 8, 109.'
 ---
 
