@@ -6,7 +6,7 @@ excerpt: 'This paper profiled the first renal clear cell carcinoma pancreas meta
 date: 2024-08-17
 venue: 'Can Lett.'
 paperurl: 'https://doi.org/10.1016/j.canlet.2024.217193'
-citation: 'Jiangdong Qiu, <b>Yifan Fu</b>, Tao Liu, Jun Wang, et al. (2024). <i>Can Lett</i>. 8, 109.'
+citation: 'Jiangdong Qiu, <b>Yifan Fu</b>, Tao Liu, Jun Wang, et al. (2024). <i>Can Lett</i>. 217193.'
 ---
 
 I finished this article in the general surgery, PUMCH with Dr. Qiu, Dr. Liu, and Dr. Wang in 2024, supervised by Prof. Taiping ZHANG and Prof. Zhiyong Liang.
