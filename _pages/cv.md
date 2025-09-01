@@ -17,18 +17,19 @@ Education
   
 Lab Experience
 ======
-* 2024 - now : Dermatology, PUMCH 
-  * Neutrophilic diseases, immunotherapy, spatial RNA-seq
-  * Supervisor: Dr. Chao WU
+
 * 2023 - now : General Surgery Laboratory, PUMCH 
-  * Multi-omics, tumor microenvironment, PDAC
+  * Multi-omics, neutrophils, tumor microenvironment, PDAC
   * Supervisor: Prof. Taiping ZHANG
+* 2022 - now : Key Laboratory for Biomechanics and Mechanobiology (MOE), Beihang University 
+  * ScRNA-seq, sclera, myopia, endothelial cell; Multi-omics and spatial algorithm
+  * Supervisor: Prof. Wei CHEN
+* 2024 - 2025 : Dermatology, PUMCH 
+  * Neutrophilic diseases, immunotherapy, spatial RNA-seq
+  * Supervisor: Prof. Hongzhong Jin
 * 2023 - 2024 : State Key Laboratory of Common Mechanism Research for Major Diseases, CAMS 
   * ScRNA-seq, metabolome, CAF, Macrophage
   * Supervisors: Prof. Lei GUO, Dr. Rui JU
-* 2022 - 2023: Key Laboratory for Biomechanics and Mechanobiology (MOE), Beihang University 
-  * ScRNA-seq, sclera, myopia, endothelial cell
-  * Supervisor: Prof. Wei CHEN
 * 2022 - 2023: Lunar Palace 1 Lab, Beihang University
   * 16S RNA-seq, space environment, bacteria, microgravity
   * Supervisor: Prof. Yuming FU
