@@ -11,6 +11,7 @@ redirect_from:
 
 Education
 ======
+* Visitor in HPB/GI Surgical Oncology, JHMI, Johns Hopkins University, 2025
 * M.D. Candidate in 4+4 Medical Doctor Program, CAMS & PUMC, 2023-2027(E)
 * B.S. in Biomedical Engineering, Beihang University, 2019-2023
 * B.S. in Mathematics and Applied Mathematics, Beihang University, 2020-2023
@@ -24,6 +25,9 @@ Lab Experience
 * 2022 - now : Key Laboratory for Biomechanics and Mechanobiology (MOE), Beihang University 
   * ScRNA-seq, sclera, myopia, endothelial cell; Multi-omics and spatial algorithm
   * Supervisor: Prof. Wei CHEN
+* 2025 : HPB/GI Surgical Oncology, JHMI, Johns Hopkins University 
+  * Rminimally invasive HPB robotic surgery
+  * Supervisor: Prof. Jin HE
 * 2024 - 2025 : Dermatology, PUMCH 
   * Neutrophilic diseases, immunotherapy, spatial RNA-seq
   * Supervisor: Prof. Hongzhong Jin
