@@ -12,7 +12,7 @@ I am currently a M.D. candidate at the Chinese Academy of Medical Sciences (CAMS
 
 My research interest focuses on the application of cumputational methods in the both clinical and fundamental medical research. As a M.D. candidate with multidisciplinary background, I am particularly interested in the integration of multi-omics data and dedicate to formulating the sophisticated microenvironment in the pancreatic cancer and other non-tumor diseases. 
 
-Recently, I, together with my colleagues, applied *10x HD Visium* technique to revealed the neutrophil heterogenous (Neutrophil extracellular traps- like) maturation during the treatment of αIL-36 for sweet syndrome, and to identify the key roles of interaction of B cell and fibroblast in the IPF progression. Meanwhile, I participated in some biomechanics projects by generating and evaluating the finated element analysis (FEA) models, with respect to the spine and zygoma.  
+Recently, I, together with my colleagues, applied *10x HD Visium* technique to revealed the neutrophil heterogenous (Neutrophil extracellular traps- like) maturation during the treatment of αIL-36 for sweet syndrome, and to identify the key roles of interaction of B cell and fibroblast in the IPF progression. During the analysis, we developed a spatial multi-omics analysis method, *stGrads*, to identify spatial distance related genes (DRGs) . Meanwhile, I participated in some biomechanics projects by generating and evaluating the finated element analysis (FEA) models, with respect to the spine and zygoma.  
 
 My goal is to be a medical leaders with high morality, a vast knowledge base, solid clinical skills, and excellent professional qualities.  
 
