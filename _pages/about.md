@@ -16,7 +16,7 @@ Recently, I, together with my colleagues, applied *10x HD Visium* technique to r
 
 My goal is to be a medical leaders with high morality, a vast knowledge base, solid clinical skills, and excellent professional qualities.  
 
-I am the reviewer for the _Front Genet_., _Front Neurol_., _Oral Dis_. and _Arch Gynecol Obstet_. journals.
+I am the reviewer for the _Cli Trans Med._, _Front Genet_., _Front Neurol_., _Oral Dis_., _Sci Rep._, _J Surg Case Rep._ and _Arch Gynecol Obstet_. journals.
 
 
 ----
