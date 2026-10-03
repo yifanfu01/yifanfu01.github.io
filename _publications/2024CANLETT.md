@@ -2,16 +2,14 @@
 title: "Single-cell RNA-seq reveals heterogeneity in metastatic renal cell carcinoma and effect of anti-angiogenesis therapy in the pancreas metastatic lesion"
 collection: publications
 permalink: /publication/cl2024
-excerpt: 'This paper profiled the first renal clear cell carcinoma pancreas metastasis scRNA-seq landscape.'
+excerpt: 'Single-cell profiling characterized the microenvironment of renal cell carcinoma metastases to the pancreas and explored responses to antiangiogenic therapy.'
 date: 2024-08-17
 venue: 'Can Lett.'
 paperurl: 'https://doi.org/10.1016/j.canlet.2024.217193'
-citation: 'Jiangdong Qiu, <b>Yifan Fu</b>, Tao Liu, Jun Wang, et al. (2024). <i>Can Lett</i>. 217193.'
+citation: 'Jiangdong Qiu, <b>Yifan Fu</b>, Tao Liu, Jun Wang, et al. (2024). <i>Cancer Letters</i>. 601:217193.'
 ---
 
-I finished this article in the general surgery, PUMCH with Dr. Qiu, Dr. Liu, and Dr. Wang in 2024, supervised by Prof. Taiping ZHANG and Prof. Zhiyong Liang.
+I worked on this study in the Department of General Surgery at Peking Union Medical College Hospital with Dr. Jiangdong Qiu, Dr. Tao Liu, and Dr. Jun Wang, under the supervision of Prof. Taiping Zhang and Prof. Zhiyong Liang.
 
-In this work, we propose the first RCCpm scRNA-seq landscape and evaluate the anti-angiogenesis treatment for the RCCpm patient.
-Several primary and metastatic RCC kidney lesions, RCC bone marrow metastasis lesions as well as RCCpm lesions were included in this study. We observe heterogeneous karyocyte of epithelial and malignant cells. The PAX8-Myc pathway is considered as a potential key regultor for metastasis, which are confirmed by RCCpm FFPE samples. The Sunitinib is also evaluated as a effective AAT drug. The RCCpm TME is characterized while due to the limitation of sample size, it shoud be further investigated before clinical practice. 
-
+We profiled renal cell carcinoma metastases to the pancreas at single-cell resolution and compared them with primary tumors and metastases at other sites. The analysis characterized a hypoxic, inflammatory microenvironment and highlighted PAX8–MYC signaling and metabolic changes in malignant cells. We also explored responses to antiangiogenic treatment, including sunitinib. Given the limited sample size, these findings require further validation before clinical application.
 
